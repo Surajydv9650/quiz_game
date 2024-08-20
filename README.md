@@ -1,0 +1,1 @@
+his is a basic quiz game built using HTML, CSS, and JavaScript. The game presents multiple-choice questions to the user, tracks their score, and provides immediate feedback on their answers. It's a fun and interactive way to test knowledge on various topics!
